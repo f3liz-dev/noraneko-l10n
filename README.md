@@ -22,4 +22,4 @@ repository.
 Newly translated strings are committed to the `main` branch
 via Pontoon’s [translation sync](https://github.com/mozilla/pontoon/blob/main/pontoon/sync/README.md).
 
-NYA
+NYA NYA NYA
